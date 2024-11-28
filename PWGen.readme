@@ -1,0 +1,13 @@
+Short:        Passwort Generator
+Uploader:     mail@amiga4ever.org
+Author:       amiga4ever (Miriam Schinagl)
+Type:         util/cli
+Version:      0.5
+Architecture: ppc-amigaos >= 4.0.0
+Date:	2024-01-02
+
+Schnelles und einfaches Tool zum generieren von sicheren Passwörtern 
+(mit und ohne Sonderzeichen) für Onlinedienste etc.
+
+Simple tool for generating quickly strong passwords with and
+without special characters
